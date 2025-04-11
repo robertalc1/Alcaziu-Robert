@@ -2,32 +2,9 @@
 <h1 align="center">Hi, I'm Alcaziu Robert</h1>
 <h3 align="center">Junior Full-Stack Developer | React · Node.js · Express · Tailwind</h3>
 
-## 📫 Contact
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://alcaziurobert.ro" target="_blank">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/alcaziurobert/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:contact@alcaziurobert.ro">
-        <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/robertalc1" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-robertalc1-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
+| 🌐 [Portfolio](https://alcaziurobert.ro) | 💼 [LinkedIn](https://www.linkedin.com/in/alcaziurobert/) | ✉️ [Email](mailto:contact@alcaziurobert.ro) | 💻 [GitHub](https://github.com/robertalc1) |
+|:----------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|
 
 
 ---
