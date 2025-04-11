@@ -42,8 +42,6 @@ Self-motivated, fast learner, and ready to contribute in a collaborative and hig
 
 ##  Let's Connect
 
-## 📬 Contact Info
-
 | 🌐 [Portfolio](https://alcaziurobert.ro) | 💼 [LinkedIn](https://www.linkedin.com/in/alcaziurobert/) | ✉️ [Email](mailto:contact@alcaziurobert.ro) | 💻 [GitHub](https://github.com/robertalc1) |
 |:----------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|
 
