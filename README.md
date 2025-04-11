@@ -1,46 +1,65 @@
-<h1 align="center">Hi 👋 I'm Robert Alcaziu</h1>
-<p align="center"><b>Junior Full-Stack Developer</b> — building scalable, real-world web apps with clean architecture and modern technologies.</p>
+<h1 align="center">👋 Hi, I'm <strong>Robert Alcaziu</strong></h1>
+<h3 align="center">💻 Junior Full-Stack Developer | React · Node.js · Express · Tailwind</h3>
+
+<p align="center">
+  <a href="https://alcaziurobert.ro"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/alcaziurobert/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 💼 About Me
-
-🚀 I’m a self-driven developer focused on delivering full-stack web applications that are scalable, secure, and production-ready.  
-🔧 I design complete solutions — from UI to backend — using tools like **React.js**, **Node.js**, **Express**, and **MySQL**.  
-🛡️ I prioritize clean code, security (JWT, bcrypt), modular APIs, and real business logic — not just tutorials.  
-📈 I love solving real problems through structure, not chaos.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-`JavaScript` `Python` `PHP` `Java` `C++`  
-`React.js` `Node.js` `Express.js` `Tailwind CSS`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `PostgreSQL` `Firebase`
-
-### 🔐 Tools & Concepts
-`JWT` `REST APIs` `Modular Architecture` `Git` `Clean Code Principles`
+## 🚀 About Me
+- 🧠 Focused on **clean code**, **modular architecture** & **real-world results**
+- 🔐 I build secure full-stack apps: JWT · bcrypt · REST APIs
+- 📦 Strong in **React**, **Node.js**, **MySQL**, **Express** and **Tailwind**
+- 🔄 Used to building full flow: UI → Logic → Database → Deployment
 
 ---
 
-## 📂 Key Projects
+## 🔧 Tech Stack
 
-- **Complaint Management System** – full-stack platform built from scratch with secure login, PDF generation, session handling and dynamic filtering  
-  _→ React · Node.js · Express · MySQL · JWT · Tailwind_
+### 🖥️ Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
 
-[🔗 View Project Repo »](https://github.com/robertalc1/Alcaziu-Robert)
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📌 Highlight Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcaziurobert)  
-[🌐 Portfolio](https://alcaziurobert.ro) • [💻 GitHub](https://github.com/robertalc1)
+### 🗂️ **Complaint Management System**
+> Scalable full-stack web app for structured complaint processing  
+> 🔐 JWT Auth · PDF Export · Session Persistence · Admin Features  
+> 🔧 Stack: React · Node.js · Express · MySQL · Tailwind
+
+[🔗 View Repository »](https://github.com/robertalc1/Alcaziu-Robert)
 
 ---
 
-> 🧠 “I don’t just build to practice. I build to learn — and I learn by solving real problems with clean, working code.”
+## 📫 Let’s connect!
+<a href="mailto:contact@alcaziurobert.ro"><img src="https://img.shields.io/badge/Email-contact@alcaziurobert.ro-blue?style=flat-square&logo=gmail" /></a>
+<a href="https://github.com/robertalc1"><img src="https://img.shields.io/badge/GitHub-robertalc1-black?style=flat-square&logo=github" /></a>
 
+---
+
+> 💬 _"I learn by building. I code to deliver. Always improving, always shipping."_
