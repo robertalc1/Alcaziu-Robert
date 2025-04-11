@@ -1,15 +1,24 @@
-
 <h1 align="center">Hi, I'm Alcaziu Robert</h1>
 <h3 align="center">Junior Full-Stack Developer | React · Node.js · Express · Tailwind</h3>
 
-
-| 🌐 [Portfolio](https://alcaziurobert.ro) | 💼 [LinkedIn](https://www.linkedin.com/in/alcaziurobert/) | ✉️ [Email](mailto:contact@alcaziurobert.ro) | 💻 [GitHub](https://github.com/robertalc1) |
-|:----------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|
-
+<p align="center">
+  <a href="https://alcaziurobert.ro" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/alcaziurobert/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:contact@alcaziurobert.ro">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/robertalc1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-robertalc1-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
 **Junior Full-Stack Developer** with hands-on experience delivering a full web application using modern technologies like **React**, **Node.js**, and **MySQL**.  
 Focused on **clean code**, **scalable architecture**, and **real-world problem solving**.  
@@ -21,6 +30,7 @@ Self-motivated, fast learner, and ready to contribute in a collaborative and hig
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
