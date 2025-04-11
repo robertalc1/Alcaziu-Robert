@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 **Junior Full-Stack Developer** with hands-on experience delivering a full web application using modern technologies like **React**, **Node.js**, and **MySQL**.  
 Focused on **clean code**, **scalable architecture**, and **real-world problem solving**.  
@@ -47,7 +47,7 @@ Self-motivated, fast learner, and ready to contribute in a collaborative and hig
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:contact@alcaziurobert.ro">
