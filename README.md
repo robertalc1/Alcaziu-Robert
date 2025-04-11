@@ -42,20 +42,11 @@ Self-motivated, fast learner, and ready to contribute in a collaborative and hig
 
 ##  Let's Connect
 
-<p align="center">
-  <a href="mailto:contact@alcaziurobert.ro">
-    <img src="https://img.shields.io/badge/Gmail-contact@alcaziurobert.ro-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/alcaziurobert/">
-    <img src="https://img.shields.io/badge/LinkedIn-alcaziurobert-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://alcaziurobert.ro">
-    <img src="https://img.shields.io/badge/Portfolio-alcaziurobert.ro-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/robertalc1">
-    <img src="https://img.shields.io/badge/GitHub-robertalc1-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+## 📬 Contact Info
+
+| 🌐 [Portfolio](https://alcaziurobert.ro) | 💼 [LinkedIn](https://www.linkedin.com/in/alcaziurobert/) | ✉️ [Email](mailto:contact@alcaziurobert.ro) | 💻 [GitHub](https://github.com/robertalc1) |
+|:----------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|
+
 
 ---
 
