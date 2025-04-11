@@ -9,14 +9,18 @@
   <a href="https://www.linkedin.com/in/alcaziurobert/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" />
   </a>
+  <a href="mailto:contact@alcaziurobert.ro">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-taught developer who builds scalable, real-world web applications — not just code for tutorials.  
-I focus on clean code, security, and modular design. Passionate about learning by building and improving constantly.
+**Junior Full-Stack Developer** with hands-on experience delivering a full web application using modern technologies like **React**, **Node.js**, and **MySQL**.  
+Focused on **clean code**, **scalable architecture**, and **real-world problem solving**.  
+Self-motivated, fast learner, and ready to contribute in a collaborative and high-standard development environment.
 
 ---
 
@@ -41,10 +45,22 @@ I focus on clean code, security, and modular design. Passionate about learning b
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-[📩 Email: contact@alcaziurobert.ro](mailto:contact@alcaziurobert.ro)  
-[🌐 Portfolio](https://alcaziurobert.ro) • [💼 LinkedIn](https://www.linkedin.com/in/alcaziurobert/) • [💻 GitHub](https://github.com/robertalc1)
+<p align="center">
+  <a href="mailto:contact@alcaziurobert.ro">
+    <img src="https://img.shields.io/badge/Gmail-contact@alcaziurobert.ro-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alcaziurobert/">
+    <img src="https://img.shields.io/badge/LinkedIn-alcaziurobert-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://alcaziurobert.ro">
+    <img src="https://img.shields.io/badge/Portfolio-alcaziurobert.ro-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/robertalc1">
+    <img src="https://img.shields.io/badge/GitHub-robertalc1-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
