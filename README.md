@@ -40,7 +40,4 @@ Self-motivated, fast learner, and ready to contribute in a collaborative and hig
 
 ---
 
-
----
-
 > 💬 "I learn by building. I ship clean code. I’m ready for real-world dev work."
