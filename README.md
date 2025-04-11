@@ -1,5 +1,4 @@
 
-<h1 align="center">👋 Hi, I'm Robert Alcaziu</h1>
 <h3 align="center">Junior Full-Stack Developer | React · Node.js · Express · Tailwind</h3>
 
 <p align="center">
